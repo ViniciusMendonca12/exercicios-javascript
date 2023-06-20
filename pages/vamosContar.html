@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Vamos contar</title>
+    <link rel="stylesheet" type="text/css" href="../css/css.css" media="screen" />
+
+</head>
+<body id="bdVerificadorDeIdade">
+    <header>   
+        <h1 id="tituloHoraDia">Vamos contar</h1>
+    </header>
+
+    <section id="scIdade">
+        <div id="containerLabels">
+            <p>Início: <input type="number" name="txtNumber" id="inicio"></p>
+            <p>Fim: <input type="number" name="txtNumber" id="fim"></p>
+            <p>Passo: <input type="number" name="txtNumber" id="passo"></p>
+
+        </div>
+        <input type="button" value="Contar" onclick="fazerContagem()">
+
+        <h2>Contando:</h2>
+        <span id="resultadoContagem"></span>
+
+    </section>
+
+    <script src="../scripts/script.js"></script>
+</body>
+</html>

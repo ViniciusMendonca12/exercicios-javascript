@@ -1,0 +1,88 @@
+#bdHoraDiaInterativo{
+    background-color: #f2f2b2;
+}
+
+#tituloHoraDia{
+    color: rgb(227, 218, 218);
+    text-align: center;
+    font: 200 26pt arial;
+    margin-bottom: -30px;
+}
+
+
+#areaImg{
+    background-color: white;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    border-radius: 3%;
+    padding-bottom: 20px;
+    box-shadow: 3px 3px ;
+    
+}
+
+#imagem{
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+}
+
+#agoraSao{
+    color: gray;
+    font: 200 20pt calibri;
+    padding-top: 15px;
+    margin-bottom: 30px;
+}
+
+#credito{
+    color: gray;
+    text-align: center;
+}
+
+#bdVerificadorDeIdade{
+    background-color: rgb(81, 184, 184);
+}
+
+#scIdade{
+    background-color: aliceblue;
+    width: 600px;
+    margin: auto;
+    padding: 15px;
+    margin-top: 35px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+#scIdade div h6{
+    font: 200 10pt arial;
+}
+
+
+#resultadoImagem{
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+}
+
+
+#inputDiv{
+    text-align: center;
+
+
+}
+#inputTabuada{
+    border-radius: 5px;
+    background-color: rgb(62, 135, 135);
+    color: white;
+    text-align: center;
+    vertical-align: top;
+    width: 200px;
+
+}
+
+#option{
+    margin-top: 5px;
+}
+
+
