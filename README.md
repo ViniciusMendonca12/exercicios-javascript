@@ -2,6 +2,8 @@
 
 Repositório criado para armazenar as atividades realizadas durante o curso de **JavaScript** ministrado por **Gustavo Guanabara**. O objetivo principal desses projetos foi o **aprendizado e prática** dos conceitos fundamentais da linguagem.
 
+É possível visualizar em: https://viniciusmendonca12.github.io/exercicios-javascript/
+
 ---
 
 ## 📝 Descrição do Repositório
@@ -48,5 +50,8 @@ Este repositório contém uma série de exercícios desenvolvidos para fixar os 
 
 ## 🏁 Conclusão
 Os exercícios neste repositório representam uma jornada de aprendizado em JavaScript, fornecendo uma base sólida para projetos mais complexos. Cada atividade foi desenvolvida com foco no estudo e prática, reforçando conceitos fundamentais da programação.
+
+É possível visualizar em: https://viniciusmendonca12.github.io/exercicios-javascript/
+
 
 **"A prática leva à perfeição!"**
